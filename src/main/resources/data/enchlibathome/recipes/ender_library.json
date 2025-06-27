@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "BLB",
+    "BBB"
+  ],
+  "key": {
+    "C": {
+      "tag": "forge:chests/ender"
+    },
+    "L": {
+      "item": "enchlibathome:library"
+    },
+    "B": {
+      "tag": "forge:bookshelves"
+    }
+  },
+  "result": {
+    "item": "enchlibathome:ender_library",
+    "count": 1
+  }
+}

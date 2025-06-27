@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "enchlibathome:block/library",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "enchlibathome:block/library",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "enchlibathome:block/library"
+    },
+    "facing=west": {
+      "model": "enchlibathome:block/library",
+      "y": 90
+    }
+  }
+}

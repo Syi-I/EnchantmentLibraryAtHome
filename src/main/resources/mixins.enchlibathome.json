@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "package": "com.uberhelixx.enchlibathome.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "mixins.enchlibathome.refmap.json",
+    "mixins": [
+        "AbstractContainerMenuInvoker"
+    ],
+    "client": [
+        "AbstractContainerMenuInvoker"
+    ],
+    "minVersion": "0.8"
+}
