@@ -16,10 +16,10 @@
 
 
 ## Screenshots
-[https://i.imgur.com/HgQ3xR7.png](https://i.imgur.com/HgQ3xR7.png)
+![https://i.imgur.com/HgQ3xR7.png](https://i.imgur.com/HgQ3xR7.png)
 Enchantment Library (Left) and Library of Alexandria (Right)
 
-[https://i.imgur.com/jZXV31W.png](https://i.imgur.com/jZXV31W.png)
+![https://i.imgur.com/jZXV31W.png](https://i.imgur.com/jZXV31W.png)
 Example image of the library UI, filtering for stored pickaxe enchantments
 
 \*If someone finds this mod and wants to use it in their modpack, sure go ahead.\*
