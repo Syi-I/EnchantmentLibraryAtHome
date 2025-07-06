@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "enchlibathome:nbt_shaped_recipe",
   "pattern": [
     " C ",
     "BLB",

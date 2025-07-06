@@ -3,6 +3,7 @@ package com.uberhelixx.enchlibathome;
 import com.mojang.logging.LogUtils;
 import com.uberhelixx.enchlibathome.common.network.ButtonClickMessage;
 import com.uberhelixx.enchlibathome.common.network.MessageHelper;
+import com.uberhelixx.enchlibathome.common.recipe.ModRecipeTypes;
 import com.uberhelixx.enchlibathome.startup.ClientSetup;
 import com.uberhelixx.enchlibathome.startup.CreativeTab;
 import com.uberhelixx.enchlibathome.startup.registry.Registry;
@@ -51,6 +52,7 @@ public class EnchantmentLibraryAtHome
         MinecraftForge.EVENT_BUS.register(this);
         Registry.register(modEventBus);
         CreativeTab.register(modEventBus);
+        ModRecipeTypes.register(modEventBus);
         MixinBootstrap.init();
         Mixins.addConfiguration("mixins.enchlibathome.json");
     }
