@@ -175,6 +175,9 @@ dependencies {
     // at runtime, use the full JEI jar for Forge
     runtimeOnly(fg.deobf("mezz.jei:jei-${minecraft_version}-forge:${jei_version}"))
 
+    //runtimeOnly(fg.deobf("curse.maven:quark-243121:6427817"))
+    //runtimeOnly(fg.deobf("curse.maven:zeta-968868:6432578"))
+
     // Mixin runtime
     implementation "org.spongepowered:mixin:${mixinVersion}"
     // Apply Mixin AP

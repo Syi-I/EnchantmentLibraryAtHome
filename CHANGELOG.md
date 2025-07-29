@@ -14,7 +14,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 - 
 
-### Planned
+
+## [1.0.2] - 2025-07-29
+### Added
+-
+
+### Changed
+- Made new assets so I'm not stealing apoth assets anymore
+
+### Fixed
 - 
 
 ## [1.0.1] - 2025-07-05

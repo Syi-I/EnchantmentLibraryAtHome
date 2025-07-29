@@ -143,7 +143,9 @@ public class LibraryScreen extends AdventureContainerScreen<LibraryMenu> {
             scale = 60F / this.font.width(txt);
         }
         stack.scale(scale, scale, 1);
-        gfx.drawString(this.font, txt, (int) ((x + 3) / scale), (int) ((y + 3) / scale), 0x8EE14D, false);
+
+        int barcolor = 10162205;
+        gfx.drawString(this.font, txt, (int) ((x + 3) / scale), (int) ((y + 3) / scale), barcolor, false);
         stack.popPose();
     }
     
